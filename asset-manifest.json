@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.80b5c871.css",
-    "main.js": "/static/js/main.5b11df35.js",
-    "static/js/787.e71dafb7.chunk.js": "/static/js/787.e71dafb7.chunk.js",
-    "static/media/bg-img@x2-desktop.jpg": "/static/media/bg-img@x2-desktop.73e4c898772d36b94f33.jpg",
-    "static/media/bg-img@x2-tablet.jpg": "/static/media/bg-img@x2-tablet.012bbe7ace91bddfdb00.jpg",
-    "static/media/bg-img@x1-desktop.jpg": "/static/media/bg-img@x1-desktop.ba240a00b7aa24c6c7b7.jpg",
-    "static/media/bg-img@x1-tablet.jpg": "/static/media/bg-img@x1-tablet.3a2fc229ec3f735a94bc.jpg",
-    "static/media/bg-img@x2-mobile.jpg": "/static/media/bg-img@x2-mobile.fbf6e362b29c4e7d18f1.jpg",
-    "static/media/bg-img@x1-mobile.jpg": "/static/media/bg-img@x1-mobile.96587f3586d427fdc2b9.jpg",
-    "index.html": "/index.html",
-    "static/media/phone.svg": "/static/media/phone.04555d39b5397c4463e6a596c3e268be.svg",
-    "static/media/burger.svg": "/static/media/burger.f2ad7e8b929fac9391f85535a4b5c78f.svg",
-    "static/media/arrow.svg": "/static/media/arrow.1ce94605dfcbb217da7b61b07fc015bb.svg",
-    "main.80b5c871.css.map": "/static/css/main.80b5c871.css.map",
-    "main.5b11df35.js.map": "/static/js/main.5b11df35.js.map",
-    "787.e71dafb7.chunk.js.map": "/static/js/787.e71dafb7.chunk.js.map"
+    "main.css": "/MartinLilt/my-resume-link-portal/static/css/main.4e8e7adc.css",
+    "main.js": "/MartinLilt/my-resume-link-portal/static/js/main.d51a3c52.js",
+    "static/js/787.e71dafb7.chunk.js": "/MartinLilt/my-resume-link-portal/static/js/787.e71dafb7.chunk.js",
+    "static/media/bg-img@x2-desktop.jpg": "/MartinLilt/my-resume-link-portal/static/media/bg-img@x2-desktop.73e4c898772d36b94f33.jpg",
+    "static/media/bg-img@x2-tablet.jpg": "/MartinLilt/my-resume-link-portal/static/media/bg-img@x2-tablet.012bbe7ace91bddfdb00.jpg",
+    "static/media/bg-img@x1-desktop.jpg": "/MartinLilt/my-resume-link-portal/static/media/bg-img@x1-desktop.ba240a00b7aa24c6c7b7.jpg",
+    "static/media/bg-img@x1-tablet.jpg": "/MartinLilt/my-resume-link-portal/static/media/bg-img@x1-tablet.3a2fc229ec3f735a94bc.jpg",
+    "static/media/bg-img@x2-mobile.jpg": "/MartinLilt/my-resume-link-portal/static/media/bg-img@x2-mobile.fbf6e362b29c4e7d18f1.jpg",
+    "static/media/bg-img@x1-mobile.jpg": "/MartinLilt/my-resume-link-portal/static/media/bg-img@x1-mobile.96587f3586d427fdc2b9.jpg",
+    "index.html": "/MartinLilt/my-resume-link-portal/index.html",
+    "static/media/phone.svg": "/MartinLilt/my-resume-link-portal/static/media/phone.04555d39b5397c4463e6a596c3e268be.svg",
+    "static/media/burger.svg": "/MartinLilt/my-resume-link-portal/static/media/burger.f2ad7e8b929fac9391f85535a4b5c78f.svg",
+    "static/media/arrow.svg": "/MartinLilt/my-resume-link-portal/static/media/arrow.1ce94605dfcbb217da7b61b07fc015bb.svg",
+    "main.4e8e7adc.css.map": "/MartinLilt/my-resume-link-portal/static/css/main.4e8e7adc.css.map",
+    "main.d51a3c52.js.map": "/MartinLilt/my-resume-link-portal/static/js/main.d51a3c52.js.map",
+    "787.e71dafb7.chunk.js.map": "/MartinLilt/my-resume-link-portal/static/js/787.e71dafb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80b5c871.css",
-    "static/js/main.5b11df35.js"
+    "static/css/main.4e8e7adc.css",
+    "static/js/main.d51a3c52.js"
   ]
 }
