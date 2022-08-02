@@ -1,0 +1,68 @@
+a {
+  text-decoration: none;
+  color: inherit;
+  padding: 15px;
+}
+
+.box > p {
+  font-weight: 400;
+  font-size: 22px;
+  height: 40px;
+  margin: 0 0 10px 0;
+  display: flex;
+  align-items: flex-end;
+  white-space: nowrap;
+  color: var(--cr-tx-accent);
+}
+
+.box > p::after {
+  content: "contact me";
+  margin: 0 0 0 5px;
+  padding: 20px 0 0 0;
+  width: 100%;
+  font-weight: 800;
+  color: var(--cr-tx-default);
+  background: var(--bg-opacity-low);
+}
+
+.box > p > span {
+  font-weight: 800;
+  font-size: 22px;
+  width: 100%;
+  color: var(--cr-tx-default);
+  background: var(--bg-opacity-low);
+}
+
+.box,
+.list,
+a {
+  width: 100%;
+}
+
+.box {
+  padding: 0 0 80px 0;
+}
+
+.box_list {
+  display: flex;
+}
+
+.box_list::before {
+  content: "";
+  display: flex;
+  width: 20px;
+  margin: 0 10px 0 0;
+  background: var(--bg-accent);
+}
+
+.sentence {
+  display: flex;
+  background: var(--bg-accent);
+  color: var(--cr-tx-build);
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.sentence:not(:last-child) {
+  margin: 0 0 10px 0;
+}

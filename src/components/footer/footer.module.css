@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+}
+
+.link {
+  background: var(--bg-accent);
+  height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  clip-path: polygon(0 15%, 50% 0, 100% 15%, 100% 100%, 0% 100%);
+}
+
+.link_text {
+  color: var(--cr-tx-build);
+  font-size: 55px;
+  line-height: 55px;
+  font-weight: 800;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.link_text > span {
+  font-size: 22px;
+  line-height: 22px;
+}
+
+.link_text > span:first-child {
+  background: var(--bg-default);
+}
+
+.link_text > span:last-child {
+  color: var(--cr-tx-opacity);
+}

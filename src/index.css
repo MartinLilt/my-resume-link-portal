@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap");
+
+:root {
+  /* color-element */
+  --cr-accent: #ffc206;
+  --cr-default: #ffffff;
+  --cr-build: #000000;
+  /* color-text */
+  --cr-tx-accent: #ffc206;
+  --cr-tx-default: #ffffff;
+  --cr-tx-build: #000000;
+  --cr-tx-opacity: rgb(0 0 0 / 25%);
+  /* background-element */
+  --bg-accent: #ffc206;
+  --bg-default: #ffffff;
+  --bg-build: #000000;
+  --bg-opacity-low: rgba(255, 255, 255, 0.25);
+  --bg-opacity-medium: rgba(255, 255, 255, 0.35);
+  --bg-opacity-lorge: rgba(255, 255, 255, 0.45);
+  /* background-screen */
+  --bg-sc-accent: #ffc206;
+  --bg-sc-default: #ffffff;
+  --bg-sc-build: #000000;
+  --bg-sc-opacity-low: rgba(255, 255, 255, 0.25);
+  --bg-sc-opacity-medium: rgba(255, 255, 255, 0.35);
+  --bg-sc-opacity-lorge: rgba(255, 255, 255, 0.45);
+  /* shadows */
+  --sw-inset: inset 0px 4px 15px rgb(0 0 0 / 35%);
+}
+
+.container {
+  max-width: 100%;
+  padding: 0 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 708px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1366px) {
+  .container {
+    width: 1306px;
+  }
+}
+
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Montserrat", sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Montserrat",
+    sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+}

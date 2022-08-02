@@ -1,0 +1,42 @@
+.image {
+  background-image: url("../../images/bg-img@x1-mobile.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: cover;
+}
+
+@media (min-device-pixel-ratio: 2),
+  (min-resolution: 192dpi),
+  (min-resolution: 2dppx) {
+  .image {
+    background-image: url("../../images/bg-img@x2-mobile.jpg");
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .image {
+    background-image: url("../../images/bg-img@x1-tablet.jpg");
+  }
+
+  @media (min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi),
+    (min-resolution: 2dppx) {
+    .image {
+      background-image: url("../../images/bg-img@x2-tablet.jpg");
+    }
+  }
+}
+
+@media screen and (min-width: 1366px) {
+  .image {
+    background-image: url("../../images/bg-img@x1-desktop.jpg");
+  }
+
+  @media (min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi),
+    (min-resolution: 2dppx) {
+    .image {
+      background-image: url("../../images/bg-img@x2-desktop.jpg");
+    }
+  }
+}
